@@ -23,7 +23,9 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class MainActivity extends Activity implements BlankFragment.OnFragmentInteractionListener,SecondFragment.OnFragmentInteractionListener{
-    private static final String TAG = "MainActivity";
+    private static final String TAG = "Test";
+
+
 
 
     @Override
